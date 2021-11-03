@@ -1,4 +1,4 @@
-package ru.job4j.condition;
+package ru.job4j.calculator;
 
 public class TrgArea {
     public static double area(double a, double b, double c) {
