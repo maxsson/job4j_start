@@ -1,3 +1,4 @@
+/*
 package ru.job4j.condition;
 
 public class SwitchWeek {
@@ -19,3 +20,4 @@ public class SwitchWeek {
         System.out.println(nameOfDay(8));
     }
 }
+*/

@@ -1,3 +1,4 @@
+/*
 package ru.job4j.condition;
 
 public class MultipleSwitchWeek {
@@ -14,3 +15,4 @@ public class MultipleSwitchWeek {
         };
     }
 }
+*/
