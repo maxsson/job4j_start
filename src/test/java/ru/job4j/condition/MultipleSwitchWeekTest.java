@@ -1,3 +1,4 @@
+/*
 package ru.job4j.condition;
 
 import org.junit.Test;
@@ -14,4 +15,4 @@ public class MultipleSwitchWeekTest {
         int expectedDay = -1;
         assertEquals(expectedDay, result);
     }
-}
+}*/
